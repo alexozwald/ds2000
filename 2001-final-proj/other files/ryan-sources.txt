@@ -1,0 +1,23 @@
+Hi all,
+
+Remember that project proposals are due next week by class on October 27th.
+
+ 
+
+Here are some resources that may help you find data for your project. You do not have to use a dataset from one of these sites, these are just to help you find data if you are having trouble doing so, and to help spark some ideas.
+
+https://github.com/datasets/awesome-data (Links to an external site.)
+
+https://github.com/awesomedata/awesome-public-datasets (Links to an external site.)
+
+https://www.data.gov/ (Links to an external site.)
+
+https://healthdata.gov/ (Links to an external site.)
+
+https://data.boston.gov/ (Links to an external site.)
+
+https://www.kaggle.com/datasets (Links to an external site.)
+
+https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk (Links to an external site.)
+
+https://datasetsearch.research.google.com/

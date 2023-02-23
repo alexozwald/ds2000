@@ -1,0 +1,31 @@
+Hi Maddie,
+
+For some reason i couldnt strip the '\n' off of the readline() statements during
+class the other day... I listed all the methods I used below, and what I ended
+up using that worked.  Some weird interaction between operating on the lines / 
+lists I'm not really sure...  But I figured out something else so i guess it
+doesn't matter.
+
+Also forgive me, but I got a bit carried away on making my plot look nice haha.  
+Also, for the sake of nicer printing I didn't write this in Spyder FYI if that
+makes a diff with the blank print() lines.
+
+Best wishes,  Alex
+
+---
+
+#line = file.readline()          # original design, paired with any of the below options
+line = file.readline().rstrip()  # eventual working solution
+
+    # during class all these failed
+    # sorry all the vars are called list, i copied it wrong the other day
+    list.strip()
+    list = list.strip()
+    list.rstrip('\n')
+    list = list.rstrip('\n')
+    list.replace('\n','')
+    list = list.replace('\n','')
+    ...
+    line_list = line.split(',')
+'''
+
